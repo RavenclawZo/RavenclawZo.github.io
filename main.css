@@ -4,6 +4,8 @@ html {
 .maker {
     margin-left: 600px;
 }
+
+/* make a nice button */
 .button {
     display: block;
     height: 100px;
@@ -14,4 +16,9 @@ html {
     color: rgba(0, 0, 0, 0.55);
     text-align: center;
     font: bold 2em/30px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+    
+     background: linear-gradient(top, #34696f, #2f5f63);
+    border-radius: 50px;
+    box-shadow: 0 8px 0 #1b383b;
+    text-shadow: 0 2px 2px rgba(255, 255, 255, 0.2);
 }
