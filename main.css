@@ -1,6 +1,9 @@
 html {
     background-color: lavender;
 }
+h1 {
+font-family: ;	
+}
 .maker {
     margin-left: 600px;
 }
@@ -46,3 +49,4 @@ html {
 	position:relative;
 	top:1px;
 }
+
