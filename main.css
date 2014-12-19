@@ -1,16 +1,22 @@
 html {
     background-color: lavender;
 }
+
+.post {
+	border: outset;
+}
+
 h1 {
-font-family: Verdana;
-text-align: center;
+	font-family: Verdana;
+	text-align: center;
 }
 h2 {
 	
 }
+
 h3 {
-text-align: center;
-font-family: Verdana;
+	text-align: center;
+	font-family: Verdana;
 }
 
 h4 {
@@ -21,12 +27,11 @@ h4 {
 p {
 	font-family: sans-serif;
 	margin: 25px;
-	border: outset;
 }
 
 
 .maker {
-    margin-left: 600px;
+	margin-left: 600px;
 }
 
 /* make a nice button */
