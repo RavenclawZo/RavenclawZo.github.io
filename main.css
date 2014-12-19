@@ -12,6 +12,18 @@ h3 {
 text-align: center;
 font-family: Verdana;
 }
+
+h4 {
+	text-align: center;
+	font-family: Verdana;
+}
+
+p {
+	font-family: sans-serif;
+	margin: 25px;
+	border: outset;
+}
+
 .maker {
     margin-left: 600px;
 }
@@ -33,7 +45,7 @@ font-family: Verdana;
 	display:inline-block;
 	cursor:pointer;
 	color:#ffffff;
-	font-family:arial;
+	font-family:Verdana;
 	font-size:17px;
 	padding:16px 31px;
 	text-decoration:none;
