@@ -32,7 +32,7 @@ p {
 
 
 .maker {
-margin-left: 650px;
+margin-left: 625px;
 }
 
 /* make a nice button */
@@ -80,7 +80,7 @@ Buttons not in use */
 
 a {
 color: navy;
-text-align: center;
+margin-left: 600px;
 }
 img {
 margin-left: auto;
