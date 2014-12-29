@@ -36,7 +36,7 @@ p {
 }
 
 /* make a nice button */
-.button {
+/*.button {
 	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #44c767), color-stop(1, #5cbf2a));
 	background:-moz-linear-gradient(top, #44c767 5%, #5cbf2a 100%);
 	background:-webkit-linear-gradient(top, #44c767 5%, #5cbf2a 100%);
@@ -76,4 +76,9 @@ p {
 	position:relative;
 	top:1px;
 }
+Buttons not in use */
 
+a {
+color: white;	
+	
+}
