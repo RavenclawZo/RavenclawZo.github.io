@@ -81,7 +81,12 @@ Buttons not in use */
 a {
 color: navy;
 }
+
 img {
 margin-left: auto;
 margin-right: auto;
+}
+
+.buttons {
+	margin: auto;
 }
